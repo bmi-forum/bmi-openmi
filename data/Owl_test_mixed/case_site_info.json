@@ -1,0 +1,47 @@
+{
+    "meteorology":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    },
+    "diversions":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    },
+    "channels":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_10m"
+    },
+    "snow":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    },
+    "evap":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    },
+    "infil":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    },
+    "satzone":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    },
+    "ice":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    },
+    "hydro_model":
+    {
+	"case_prefix": "June_12_1",
+	"site_prefix": "Owl_30m"
+    }
+}

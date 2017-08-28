@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmi-ws_openmi2-wrapper_unittest", "bmi-ws_openmi2-wrapper_unittest\bmi-ws_openmi2-wrapper_unittest.csproj", "{55123D77-1863-4731-81B0-8344C664524A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmi-ws_openmi2-wrapper", "bmi-ws_openmi2-wrapper\bmi-ws_openmi2-wrapper.csproj", "{E2703C51-AED0-4BA8-BDA4-EC34A994B1D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55123D77-1863-4731-81B0-8344C664524A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55123D77-1863-4731-81B0-8344C664524A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55123D77-1863-4731-81B0-8344C664524A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55123D77-1863-4731-81B0-8344C664524A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2703C51-AED0-4BA8-BDA4-EC34A994B1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2703C51-AED0-4BA8-BDA4-EC34A994B1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2703C51-AED0-4BA8-BDA4-EC34A994B1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2703C51-AED0-4BA8-BDA4-EC34A994B1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

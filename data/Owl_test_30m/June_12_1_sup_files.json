@@ -1,0 +1,28 @@
+{
+    "meteorology":
+    ["TFDEM_DEM.tif",
+     "precipitation-mm_data.txt",
+     "relative-humidity_data.txt",
+     "temperature-c_data.txt",
+     "Owl_30m_slope.tif",
+     "Owl_30m_aspect.tif"],
+    "diversions":
+    ["TFDEM_DEM.tif"],
+    "channels":
+    ["TFDEM_DEM.tif",
+     "Owl_30m_flow_direct.tif",
+     "Owl_30m_slope.tif"],
+    "snow":
+    ["TFDEM_DEM.tif"],
+    "evap":
+    ["TFDEM_DEM.tif"],
+    "infil":
+    ["TFDEM_DEM.tif"],
+    "satzone":
+    ["TFDEM_DEM.tif",
+     "Owl_30m_flow_direct.tif"],
+    "ice":
+    ["TFDEM_DEM.tif"],
+    "hydro_model":
+    ["TFDEM_DEM.tif"]
+}
