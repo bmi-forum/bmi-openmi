@@ -8,11 +8,11 @@ The software is designed to wrap bmi components exposed as web services using th
 
 ## Status
 
-In developement/progress.  
+In development/progress.  
 
 ## Set up
 
-1. Download and start the Restful BMI server using instrctions from here: https://opensource.ncsa.illinois.edu/bitbucket/projects/ECGS/repos/bmi-flask/browse
+1. Download and start the Restful BMI server using instructions from here: https://opensource.ncsa.illinois.edu/bitbucket/projects/ECGS/repos/bmi-flask/browse
 
 2. Download/clone/fork this repository. Open the solution in Visual Studio and run the unit tests.
 
@@ -20,7 +20,7 @@ In developement/progress.
 
 Please send any feedback or questions to Jon Goodall at goodall@virginia.edu.
 
-## Acknoweldgements
+## Acknowledgements
 
 This work was funded by the National Science Foundation (NSF) under the award No. 1343811.  
 
